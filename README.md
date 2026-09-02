@@ -1,4 +1,4 @@
-@@ -1,16 +1,62 @@
+
 ## Hi there 👋
 <h1 align="center"><b>Hi , I'm Rocio A. Tejo </b><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlqNmN3MngzZ3g4Z2lqZjJyemtxcW0wd2lyMHo4OHRibmE5ODYyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhoNyvVjuB88HjDK0l/giphy.gif" width="35"></h1>
 <!--  -->
