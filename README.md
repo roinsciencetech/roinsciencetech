@@ -2,9 +2,9 @@
 ## Hi there 👋
 <h1 align="center"><b>Hi , I'm Rocio A. Tejo </b><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlqNmN3MngzZ3g4Z2lqZjJyemtxcW0wd2lyMHo4OHRibmE5ODYyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhoNyvVjuB88HjDK0l/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://giphy.com/gifs/cat-wink-stickers-WhoNyvVjuB88HjDK0l" />
+<img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZncG1peXRpbGdla2pwODc2MHI3OW50emQxZ2xwYzJ2aW1yYnF4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hmdApHQb2hdfdKu6jg/giphy.gif" />
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZncG1peXRpbGdla2pwODc2MHI3OW50emQxZ2xwYzJ2aW1yYnF4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hmdApHQb2hdfdKu6jg/giphy.gif" width="30px">&nbsp;***About me***
+***About me***
 
 Here are some ideas to get you started:
 
@@ -13,18 +13,17 @@ I am a computer AI engineering student, currently halfway through my degree. I a
 
 🌱 **I’m currently learning:** Nest.js and Angular to build robust, scalable architectures for AI-driven platforms, alongside deepening my grasp of computational neuroscience.
 
-- 👯 **I’m looking to collaborate on:** Open-source AI in Education (AIED) projects, science outreach platforms, and initiatives that democratize tech access for public schools and underserved communities.
-- 
-- 🤔 **I’m looking for help with:** Advanced benchmarking frameworks to rigorously evaluate the pedagogical impact of AI agents, and scaling production ML pipelines.
-- 
-- 💬 **Ask me about:** AI engineering applied to science learning, agentic workflows, STEM mentoring for girls, and turning physics concepts into interactive digital tools.
-- 
-- 😄 **Pronouns:** She / Her
-- 
-- ⚡ **Fun fact:** When I’m not training models or debugging code, you’ll probably find me running a community journaling meetup or translating physics phenomena into everyday metaphors.
-- 
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
+👯 **I’m looking to collaborate on:** Open-source AI in Education (AIED) projects, science outreach platforms, and initiatives that democratize tech access for public schools and underserved communities.
+   
+🤔 **I’m looking for help with:** Advanced benchmarking frameworks to rigorously evaluate the pedagogical impact of AI agents, and scaling production ML pipelines.
+
+💬 **Ask me about:** AI engineering applied to science learning, agentic workflows, STEM mentoring for girls, and turning physics concepts into interactive digital tools.
+
+😄 **Pronouns:** She / Her
+
+⚡ **Fun fact:** When I’m not training models or debugging code, you’ll probably find me running a community journaling meetup or translating physics phenomena into everyday metaphors.
+
+
 
 - Outside tech, 💜I love Journaling, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
